@@ -1,0 +1,3 @@
+D:/Users/Chris/Documents/-- Pannon Egyetem --/Uzemmernok informatikus (2023-)/-- tantargyak --/2-felev/programozas-II/nagy zh mintafeladatok/03/cmake-build-debug/CMakeFiles/03.dir
+D:/Users/Chris/Documents/-- Pannon Egyetem --/Uzemmernok informatikus (2023-)/-- tantargyak --/2-felev/programozas-II/nagy zh mintafeladatok/03/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Chris/Documents/-- Pannon Egyetem --/Uzemmernok informatikus (2023-)/-- tantargyak --/2-felev/programozas-II/nagy zh mintafeladatok/03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
