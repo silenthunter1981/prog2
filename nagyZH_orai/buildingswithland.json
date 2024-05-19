@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Id": "34nm322n",
+    "Address": "Telkes utca 5",
+    "Area": 65,
+    "BuiltIn": 1758,
+    "LandArea": 350
+  },
+  {
+    "Id": "3kdosaod",
+    "Address": "Farmer sor 35",
+    "Area": 450,
+    "BuiltIn": 1956,
+    "LandArea": 5600
+  },
+  {
+    "Id": "3213tre5",
+    "Address": "Kozponti ter 2",
+    "Area": 43,
+    "BuiltIn": 2006,
+    "LandArea": 150
+  }
+]

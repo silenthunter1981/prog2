@@ -1,0 +1,37 @@
+﻿[
+  {
+    "Id": "m21kmk32",
+    "Address": "Sugarzo sugarut 23",
+    "Area": 130,
+    "BuiltIn": 1924,
+    "Levels": 5
+  },
+  {
+    "Id": "nm32nm31",
+    "Address": "Hatalmi Ut 98",
+    "Area": 67,
+    "BuiltIn": 2008,
+    "Levels": 3
+  },
+  {
+    "Id": "542ikkn2",
+    "Address": "Hosszu utca 340",
+    "Area": 54,
+    "BuiltIn": 1956,
+    "Levels": 2
+  },
+  {
+    "Id": "k43vj267",
+    "Address": "Felhokarcolo sor 12",
+    "Area": 560,
+    "BuiltIn": 2023,
+    "Levels": 128
+  },
+  {
+    "Id": "k3n2jn44",
+    "Address": "Kicsi utca 12",
+    "Area": 38,
+    "BuiltIn": 2005,
+    "Levels": 2
+  }
+]

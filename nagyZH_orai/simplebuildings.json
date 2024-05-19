@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Id": "64f32h9f",
+    "Address": "Almafa utca 13",
+    "Area": 45,
+    "BuiltIn": 1980
+  },
+  {
+    "Id": "4316ygdd",
+    "Address": "Korte sor 25",
+    "Area": 156,
+    "BuiltIn": 2016
+  },
+  {
+    "Id": "t3j46nf4",
+    "Address": "Napsugar lakotelep 4",
+    "Area": 89,
+    "BuiltIn": 1994
+  },
+  {
+    "Id": "tntj3bbe",
+    "Address": "Szalma ut 123",
+    "Area": 110,
+    "BuiltIn": 1856
+  }
+]

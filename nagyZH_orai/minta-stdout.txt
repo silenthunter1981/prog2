@@ -1,0 +1,51 @@
+﻿main() eleje!
+
+
+LandOffice loading
+
+Print all buildings:
+Simple building - 64f32h9f:  Almafa utca 13,  45m^2, built in 1980
+Simple building - 4316ygdd:  Korte sor 25,  156m^2, built in 2016
+Simple building - t3j46nf4:  Napsugar lakotelep 4,  89m^2, built in 1994
+Simple building - tntj3bbe:  Szalma ut 123,  110m^2, built in 1856
+Multi level building - m21kmk32:  Sugarzo sugarut 23,  130m^2, built in 1924, 5 levels
+Multi level building - nm32nm31:  Hatalmi Ut 98,  67m^2, built in 2008, 3 levels
+Multi level building - 542ikkn2:  Hosszu utca 340,  54m^2, built in 1956, 2 levels
+Multi level building - k43vj267:  Felhokarcolo sor 12,  560m^2, built in 2023, 128 levels
+Multi level building - k3n2jn44:  Kicsi utca 12,  38m^2, built in 2005, 2 levels
+Building with land - 34nm322n:  Telkes utca 5,  65m^2, built in 1758, land size: 350 m^2
+Building with land - 3kdosaod:  Farmer sor 35,  450m^2, built in 1956, land size: 5600 m^2
+Building with land - 3213tre5:  Kozponti ter 2,  43m^2, built in 2006, land size: 150 m^2
+
+Total areas of buildings:
+Almafa utca 13 : 45
+Korte sor 25 : 156
+Napsugar lakotelep 4 : 89
+Szalma ut 123 : 110
+Sugarzo sugarut 23 : 650
+Hatalmi Ut 98 : 201
+Hosszu utca 340 : 108
+Felhokarcolo sor 12 : 71680
+Kicsi utca 12 : 76
+Telkes utca 5 : 415
+Farmer sor 35 : 6050
+Kozponti ter 2 : 193
+
+Exporting total areas
+
+Loading renovations ...
+Printing data again
+Simple building - 64f32h9f:  Almafa utca 13,  45m^2, built in 1980
+Simple building - 4316ygdd:  Korte sor 25,  156m^2, built in 2016
+Simple building - t3j46nf4:  Napsugar lakotelep 4,  89m^2, built in 1994
+Simple building - tntj3bbe:  Szalma ut 123,  110m^2, built in 1856, renovated in: 1905, 1986, 2015, 2023
+Multi level building - m21kmk32:  Sugarzo sugarut 23,  130m^2, built in 1924, 5 levels
+Multi level building - nm32nm31:  Hatalmi Ut 98,  67m^2, built in 2008, 3 levels
+Multi level building - 542ikkn2:  Hosszu utca 340,  54m^2, built in 1956, 2 levels, renovated in: 1982, 1988, 2010
+Multi level building - k43vj267:  Felhokarcolo sor 12,  560m^2, built in 2023, 128 levels
+Multi level building - k3n2jn44:  Kicsi utca 12,  38m^2, built in 2005, 2 levels
+Building with land - 34nm322n:  Telkes utca 5,  65m^2, built in 1758, land size: 350 m^2, renovated in: 1850, 1938
+Building with land - 3kdosaod:  Farmer sor 35,  450m^2, built in 1956, land size: 5600 m^2
+Building with land - 3213tre5:  Kozponti ter 2,  43m^2, built in 2006, land size: 150 m^2
+
+main() vege!
